@@ -14,4 +14,4 @@ echo 'Your name was stored in $name'
 echo "Hi, what do you want the new file name to be?"
 read newFile
 touch $newFile.txt
-echo "$newFile.txt has been created"
+echo "$newFile.txt is created! Yippe!"
